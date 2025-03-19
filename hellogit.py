@@ -1,2 +1,1 @@
-print('hola git')
-print('que tal el curso')
+print('Ahroa estoy editando el archivo hellogit.py')
